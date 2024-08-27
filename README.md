@@ -1,3 +1,9 @@
+# install
+```
+flutter pub global activate -s git https://github.com/suhaib0edu/get_cli
+```
+
+
 ###### Documentation languages
 
 | [pt_BR](README-pt_BR.md) | en_US - this file |[zh_CN](README-zh_CN.md) |
